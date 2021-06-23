@@ -10,7 +10,9 @@
 |   2.55   | https://quantumcomputing.stackexchange.com/q/13589/9474 |
 |   2.63   | https://quantumcomputing.stackexchange.com/q/13904/9474 |
 |   4.6    | https://quantumcomputing.stackexchange.com/q/17026/9474 |
+|   4.15   | https://quantumcomputing.stackexchange.com/q/14014/9474 |
 |   4.22   | https://quantumcomputing.stackexchange.com/q/7082/9474  |
+|   4.23   | https://quantumcomputing.stackexchange.com/q/9623/9474  |
 |   4.33   | https://quantumcomputing.stackexchange.com/q/5605/9474  |
 |   4.34   | https://quantumcomputing.stackexchange.com/q/11941/9474 |
 |   4.40   | https://quantumcomputing.stackexchange.com/q/10269/9474 |
@@ -21,6 +23,11 @@
 |   6.7    | https://quantumcomputing.stackexchange.com/q/11921/9474 |
 |   6.12   | https://quantumcomputing.stackexchange.com/q/9243/9474  |
 |   6.13   | https://quantumcomputing.stackexchange.com/q/14771/9474 |
+|   7.18   | https://quantumcomputing.stackexchange.com/q/8285/9474  |
+|   8.21   | https://quantumcomputing.stackexchange.com/q/6828/9474  |
+|  10.12   | https://quantumcomputing.stackexchange.com/q/2207/9474  |
 |  10.27   | https://quantumcomputing.stackexchange.com/q/8742/9474  |
+|  10.32   | https://quantumcomputing.stackexchange.com/q/4338/9474  |
 |  10.34   | https://quantumcomputing.stackexchange.com/q/7112/9474  |
+|  11.19   | https://quantumcomputing.stackexchange.com/q/12901/9474 |
 |  11.20   | https://quantumcomputing.stackexchange.com/q/6435/9474  |
