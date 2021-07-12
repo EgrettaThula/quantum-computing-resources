@@ -25,7 +25,6 @@
 |   6.13   | https://quantumcomputing.stackexchange.com/q/14771/9474 |
 |   7.18   | https://quantumcomputing.stackexchange.com/q/8285/9474  |
 |   8.21   | https://quantumcomputing.stackexchange.com/q/6828/9474  |
-|   9.7    | https://quantumcomputing.stackexchange.com/q/18406/9474 |
 |  10.12   | https://quantumcomputing.stackexchange.com/q/2207/9474  |
 |  10.27   | https://quantumcomputing.stackexchange.com/q/8742/9474  |
 |  10.32   | https://quantumcomputing.stackexchange.com/q/4338/9474  |
