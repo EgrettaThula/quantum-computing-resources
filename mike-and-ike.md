@@ -13,6 +13,7 @@
 |   4.15   | https://quantumcomputing.stackexchange.com/q/14014/9474 |
 |   4.22   | https://quantumcomputing.stackexchange.com/q/7082/9474  |
 |   4.23   | https://quantumcomputing.stackexchange.com/q/9623/9474  |
+|   4.27   | https://quantumcomputing.stackexchange.com/q/12439/9474 |
 |   4.33   | https://quantumcomputing.stackexchange.com/q/5605/9474  |
 |   4.34   | https://quantumcomputing.stackexchange.com/q/11941/9474 |
 |   4.40   | https://quantumcomputing.stackexchange.com/q/10269/9474 |
